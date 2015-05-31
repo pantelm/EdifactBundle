@@ -2,6 +2,7 @@
     "name": "pantelm/edifactbundle",
     "description": "This is a Symfony2 Bundle that help integrate Edifact Library",
     "type": "symfony-bundle",
+    "version": "0.0.1-dev",
     "license": "MIT",
     "authors": [
         {
