@@ -19,5 +19,10 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~4.6"
+    },
+    "autoload": {
+        "psr-4": {
+          "EdifactBundle\\": ""
+        }
     }
 }
